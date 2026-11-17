@@ -40,8 +40,8 @@ We operate as an independent graphic design and visual brand identity studio bas
 
 ### 3. Active Website & Pricing Transparency
 Our official website is live and publicly accessible:
-- **Website URL:** `https://your-domain-or-hosting-url/` *(or your Vercel deployment link)*
-- **Services & Pricing Section:** `https://your-domain-or-hosting-url/#pricing`
+- **Website URL:** `https://pholisa-design.vercel.app`
+- **Services & Pricing Section:** `https://pholisa-design.vercel.app/#pricing`
   - Starter Brandmark Package: R1,200
   - Complete Brand Identity Suite: R2,800
   - Social Media Kit: R1,800
@@ -53,8 +53,8 @@ Our official website is live and publicly accessible:
 
 ### 4. Link to Refund and Cancellation Policy
 Our full, transparent Refund and Cancellation Policy is published at:
-- **Refund & Cancellation Policy URL:** `https://your-domain-or-hosting-url/refund-policy.html`
-- **Terms of Service URL:** `https://your-domain-or-hosting-url/terms.html`
+- **Refund & Cancellation Policy URL:** `https://pholisa-design.vercel.app/refund-policy`
+- **Terms of Service URL:** `https://pholisa-design.vercel.app/terms`
 
 The policy explicitly guarantees:
 - 100% full refund if cancelled prior to the commencement of design drafting (within 24 hours).
